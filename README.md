@@ -1,3 +1,4 @@
+Hi, my name is Jakub. I am an ambitious enthusiast of all kinds of programming. I am looking for new challenges, and I can't wait to gain new knowledge :)
 # 💫 About Me:
 - 🌱 I’m currently learning **Express.js, MySQL & MongoDB, TypeScript, React, NestJS and Advanced Node.js  ,**<br><br>- 📫 How to reach me **jakubpuz99@gmail.com**<br><br>- 🤓 Random fact **I love dogs, especially Border Collies**
 
