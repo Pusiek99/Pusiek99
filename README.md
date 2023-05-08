@@ -1,5 +1,6 @@
 # 💫 About Me:
 - 🌱 I’m currently learning **Express.js, MySQL & MongoDB, TypeScript, React, NestJS Node.js Advanced &.js,**<br><br>- 📫 How to reach me **jakubpuz99@gmail.com**<br><br>- 🤓 Random fact **I love dogs, especially Border Collies**
+![giphy](https://user-images.githubusercontent.com/113382737/236928738-3d32417b-32f2-41b6-8fed-fe9d91e74d75.gif)
 
 
 # 💻 Tech Stack:
